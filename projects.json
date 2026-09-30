@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "fileflow",
+    "title": "FileFlow",
+    "category": "APPLICATION DESKTOP",
+    "description": ["Conversion de documents, médias et archives.", "Traitements locaux et automatisations."],
+    "stack": "Rust · Tauri · Angular · SQLite",
+    "note": "Local et multiplateforme",
+    "url": "https://github.com/idris-ach2002/FileFlow",
+    "related": [{"label": "Téléchargements", "url": "https://fileflow-downloads.pages.dev"}]
+  },
+  {
+    "slug": "portfolio",
+    "title": "Portfolio full stack",
+    "category": "WEB & ARCHITECTURE",
+    "description": ["Interface React et API Spring Boot administrable.", "Publication, versions et sécurité du contenu."],
+    "stack": "React · Spring Boot · PostgreSQL",
+    "note": "Frontend et backend complémentaires",
+    "url": "https://github.com/idris-ach2002/professional_website",
+    "related": [{"label": "Frontend", "url": "https://github.com/idris-ach2002/professional_website_front"}, {"label": "Site", "url": "https://idris-achabou.fit"}]
+  },
+  {
+    "slug": "ais",
+    "title": "Données maritimes AIS",
+    "category": "DONNÉES & GÉOSPATIAL",
+    "description": ["De la collecte TCP au filtrage géographique.", "Pipeline de données maritimes et export CSV."],
+    "stack": "Java · PostgreSQL · Symfony",
+    "note": "Collecte → stockage → interface",
+    "url": "https://github.com/idris-ach2002/bdd-ais",
+    "related": [{"label": "Collecte", "url": "https://github.com/idris-ach2002/ais-java-2025"}, {"label": "Interface", "url": "https://github.com/idris-ach2002/AIS_WEBSITE"}]
+  },
+  {
+    "slug": "graphes",
+    "title": "Visualisation de graphes",
+    "category": "VISUALISATION & CALCUL NATIF",
+    "description": ["Explorer des graphes avec JavaFX et OpenGL.", "Calculs natifs en C, connectés par JNI."],
+    "stack": "JavaFX · OpenGL · C · JNI",
+    "note": "Contribution en binôme à un projet existant",
+    "url": "https://github.com/idris-ach2002/PSTL_25_visualisation_graphes"
+  },
+  {
+    "slug": "huffman",
+    "title": "Huffman adaptatif",
+    "category": "ALGORITHMES & COMPRESSION",
+    "description": ["Compression adaptative de fichiers UTF-8.", "Arbres dynamiques et expérimentations."],
+    "stack": "Java · UTF-8 · Graphviz · JFreeChart",
+    "note": "Compression et décompression",
+    "url": "https://github.com/idris-ach2002/Huffman_dynamique"
+  },
+  {
+    "slug": "megablast",
+    "title": "Megablast",
+    "category": "JEU & PROGRAMMATION FONCTIONNELLE",
+    "description": ["Jeu de tir solo ou duo développé en Haskell.", "Modèle pur et tests de propriétés."],
+    "stack": "Haskell · Gloss · HSpec · QuickCheck",
+    "note": "États du jeu et transitions pures",
+    "url": "https://github.com/idris-ach2002/Megablast"
+  }
+]
