@@ -41,7 +41,7 @@ Je développe des applications **web et backend**, avec un intérêt pour les **
 <a href="https://github.com/idris-ach2002/Megablast"><img src="./assets/project-megablast.svg" width="395" alt="Megablast — Jeu de tir solo ou duo développé en Haskell. Modèle pur et tests de propriétés. Haskell · Gloss · HSpec · QuickCheck"></a>
 </p>
 
-[Portfolio en ligne](https://idris-achabou.fit) · [Code frontend](https://github.com/idris-ach2002/professional_website_front) · [Collecte AIS](https://github.com/idris-ach2002/ais-java-2025) · [Interface AIS](https://github.com/idris-ach2002/AIS_WEBSITE) · [Tous mes dépôts](https://github.com/idris-ach2002?tab=repositories)
+[Tous mes dépôts](https://github.com/idris-ach2002?tab=repositories)
 
 ## Au fil du code
 
